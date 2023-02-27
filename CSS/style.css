@@ -500,6 +500,9 @@ span{
         margin-bottom: 2rem;
         margin-right: 2rem;
     }
+    .certification-lists{
+        height: 8em;
+    }
 }
 @media (max-width: 1200px) {
     .section-1{
